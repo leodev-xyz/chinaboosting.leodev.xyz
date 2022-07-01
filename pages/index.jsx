@@ -11,7 +11,7 @@ export default function Home() {
         <>
             <MetaTags
                 title="中国助推 | CHINA BOOSTING"
-                description="中文 CS:GO 账号提升。 XP+等级提升50元起。&#x0A;Chinese CS:GO account boosting. XP + RANK boosting starting at 50¥."
+                description="中文 CS:GO 账号提升。 XP+等级提升50元起。\r\nChinese CS:GO account boosting. XP + RANK boosting starting at 50¥."
             />
             <h1 className="mt-20 font-bold text-center text-indigo-400">
                 <p className="text-5xl">
