@@ -25,7 +25,7 @@ export default function Home() {
                 <h2 className="mb-4 text-xl font-bold uppercase">
                     想要提升？  Want boost?
                 </h2>
-                <Link href="https://graph.qq.com/oauth2.0/authorize?response_type=token&client_id=19890604&redirect_uri=https://chinaboosting.leodev.xyz/oauth2&scope=identify">
+                <Link href="https://graph.qq.com/oauth2.0/authorize?response_type=token&client_id=19890604&redirect_uri=https://china.boosting.win/oauth2&scope=identify">
                     <a className="--btn --btn-3 --btn-secondary">
                         <QQIcon className="inline w-8 h-8 mr-4" />
                         用QQ登录
@@ -63,7 +63,7 @@ export default function Home() {
                             </span>
                         </div>
                         <p className="mt-2 font-mono text-center bg-gray-500 rounded">
-                            {name} | china boosting
+                            {name} | china.boosting.win
                         </p>
                     </>
                 )}
